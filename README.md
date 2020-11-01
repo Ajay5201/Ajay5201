@@ -11,7 +11,7 @@
   <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ruthsan r" height="30" width="30" /></a>
   </p>
   &nbsp;
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthsan345" alt="ruthsan345" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ajay5201" alt="Ajay5201" /> </p>
 
 - 🔭 I’m currently working on **flask**
 
